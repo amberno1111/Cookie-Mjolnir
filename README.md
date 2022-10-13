@@ -1,2 +1,7 @@
-# Cookie-Mjolnir
-锤子
+# cookie-mjolnir
+
+名字来源于：
+- cookie：我家猫的名字
+- mjolnir：来自程序员们经常用来调侃的一句话：拿着锤子找钉子
+
+这个工程里的代码就是一些常用的工具类。
